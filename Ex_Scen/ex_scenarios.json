@@ -49,24 +49,6 @@
   },
   {
     "type": "scenario",
-    "name": "X-The Ritual",
-    "description": "It wasn't meant to actually work, but as the chanting transformed to moaning, and fellow brothers & sisters began to devour each other...you begin to wonder if you should be jealous of them or fleeing for your life.",
-    "ident": "ritual_scen",
-    "points": -2,
-    "allowed_locs": [
-      "cathedral_b_NW",
-      "cathedral_b_NE",
-      "cathedral_b_SW",
-      "cathedral_b_SE"
-    ],
-    "start_name": "Cathedral",
-    "flags": ["LONE_START"],
-    "effects": [{ "id": "attention", "duration": 100 }],
-    "professions": ["Cultist"],
-    "forced_traits": ["SPIRITUAL", "MASOCHIST"]
-  },
-  {
-    "type": "scenario",
     "name": "X-The Strange Cabin",
     "description": "The nightmare was finally over, the evil dead turned your friends, forcing you to slay them, and at the cost of your sanity drove them away for good. Or so you thought.",
     "ident": "stcabin_scen",

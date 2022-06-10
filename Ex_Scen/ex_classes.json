@@ -55,18 +55,6 @@
   },
   {
     "type": "profession",
-    "ident": "Cultist",
-    "name": "Cultist",
-    "description": "Ph'nglui mglw'nafh Cthulhu R'lyeh wgah'nagl fhtagn.",
-    "points": -1,
-    "effects": [{ "id": "attention", "duration": 100 }],
-    "traits": ["SPIRTUAL", "MASOCHIST", "attention"],
-    "items": {
-      "both": ["cloak", "knife_butcher"]
-    }
-  },
-  {
-    "type": "profession",
     "ident": "Reluctant_Hero",
     "name": "Reluctant Hero",
     "description": "Always been Wrong person for the wrong job at the wrong time, but now with no one left, you have no choice to fight.",
