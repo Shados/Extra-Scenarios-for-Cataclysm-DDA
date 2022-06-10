@@ -169,31 +169,6 @@
   },
   {
     "type": "scenario",
-    "name": "X-Half Shell Ninja",
-    "description": "You've always silently watched over the city, protecting it from many dangers, however, tonight's crisis is something new and far worse than you could ever imagine.",
-    "ident": "shninja_scen",
-    "points": -2,
-    "allowed_locs": ["sewer"],
-    "start_name": "Sewers",
-    "flags": ["CITY_START"],
-    "professions": [
-      "mutant_ninja_1",
-      "mutant_ninja_2",
-      "mutant_ninja_3",
-      "mutant_ninja_4"
-    ],
-    "forced_traits": [
-      "SHELL",
-      "AMPHIBIAN",
-      "DEFORMED",
-      "MARTIAL_ARTS2",
-      "DEFT",
-      "LIGHTSTEP",
-      "SLIMY"
-    ]
-  },
-  {
-    "type": "scenario",
     "name": "X-Patient Zero",
     "description": "They've kept you quarantined at this camp long before rumors of the dead started. As the cataclysm hit, they desperately experiemented on you hoping to create a cure. They never succeded, but they create something alright",
     "ident": "zero_scen",
