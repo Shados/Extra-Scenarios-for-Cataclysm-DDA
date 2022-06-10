@@ -49,17 +49,6 @@
   },
   {
     "type": "scenario",
-    "name": "X-The Strange Cabin",
-    "description": "The nightmare was finally over, the evil dead turned your friends, forcing you to slay them, and at the cost of your sanity drove them away for good. Or so you thought.",
-    "ident": "stcabin_scen",
-    "points": -2,
-    "allowed_locs": ["cabin_strange"],
-    "start_name": "Strange Cabin",
-    "flags": ["LONE_START"],
-    "professions": ["Reluctant_Hero"]
-  },
-  {
-    "type": "scenario",
     "name": "X-Little Shop of Horrors",
     "description": "Running an shop during the end of world has its challenges, but its been in the family for generations, and you refuse to be outdone by the cataclysm. Although crazy has become normal, discovering new oddities to sell has never been easier! ",
     "ident": "sphorror_scen",

@@ -55,41 +55,6 @@
   },
   {
     "type": "profession",
-    "ident": "Reluctant_Hero",
-    "name": "Reluctant Hero",
-    "description": "Always been Wrong person for the wrong job at the wrong time, but now with no one left, you have no choice to fight.",
-    "points": 2,
-    "traits": ["attention"],
-    "skills": [
-      { "level": 3, "name": "melee" },
-      { "level": 3, "name": "shotgun" }
-    ],
-    "items": {
-      "both": {
-        "items": [
-          "longshirt",
-          "pants",
-          "chestrig",
-          "leather_belt",
-          "mocassins",
-          "socks"
-        ],
-        "entries": [
-          {
-            "item": "shotgun_d",
-            "ammo-item": "shot_00",
-            "charges": 2,
-            "container-item": "back_holster"
-          },
-          { "item": "combatsaw_off", "charges": 250 }
-        ]
-      },
-      "male": ["boxer_shorts"],
-      "female": ["sports_bra", "boxer_shorts"]
-    }
-  },
-  {
-    "type": "profession",
     "ident": "shopkeep",
     "name": "Shopkeep",
     "description": "Some would say that running a shop during the cataclysm is foolish, but you welcome the challenge.",
