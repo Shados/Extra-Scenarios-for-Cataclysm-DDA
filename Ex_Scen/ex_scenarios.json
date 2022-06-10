@@ -118,13 +118,7 @@
     "description": "Normally your mechanic skills are flawless, but after accidentlly breaking a part that goes nowhere, you can't help wonder if that's what started the cataclysm.",
     "ident": "mechanic_scen",
     "points": -2,
-    "allowed_locs": [
-      "sloc_garage",
-      "public_works_NW",
-      "public_works_NE",
-      "public_works_SW",
-      "public_works_SE"
-    ],
+    "allowed_locs": ["sloc_garage", "sloc_public_works"],
     "start_name": "Garage, Public Works",
     "professions": ["mechanic"]
   },

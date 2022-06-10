@@ -121,27 +121,14 @@
   },
   {
     "type": "start_location",
-    "ident": "public_works_NW",
+    "ident": "sloc_public_works",
     "name": "Public Works",
-    "terrain": ["public_works_NW"]
-  },
-  {
-    "type": "start_location",
-    "ident": "public_works_NE",
-    "name": "Public Works",
-    "terrain": ["public_works_NE"]
-  },
-  {
-    "type": "start_location",
-    "ident": "public_works_SW",
-    "name": "Public Works",
-    "terrain": ["public_works_SW"]
-  },
-  {
-    "type": "start_location",
-    "ident": "public_works_SE",
-    "name": "Public Works",
-    "terrain": ["public_works_SE"]
+    "terrain": [
+      "public_works_NE",
+      "public_works_NW",
+      "public_works_SE",
+      "public_works_SW"
+    ]
   },
   {
     "type": "start_location",
