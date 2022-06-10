@@ -17,17 +17,6 @@
   },
   {
     "type": "scenario",
-    "name": "X-Lost and Found",
-    "description": "The voice beckoned you from the abyss to come closer, and you did. The voice beckoned you from the abyss to jump, and you did. Falling into endless, twisted blackness you caught a terrible glimpse into a world not should not be. Then you woke up.",
-    "ident": "arti_scen",
-    "points": -2,
-    "allowed_locs": ["temple_finale"],
-    "start_name": "Strange Temple",
-    "flags": ["SCEN_ONLY", "LONE_START"],
-    "professions": ["ill_fated_one"]
-  },
-  {
-    "type": "scenario",
     "name": "X-Cashing Out",
     "description": "They never appreciated the extra mile you go overseeing the bank. You've taken pride in denying unworthy loans, and managing their accounts. A coward, loan shark, greedy devil, you've heard it all. They claim you'll get your just deserts...didn't think they meant it literally!",
     "ident": "bank_scen",

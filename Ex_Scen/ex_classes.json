@@ -28,19 +28,6 @@
   },
   {
     "type": "profession",
-    "ident": "ill_fated_one",
-    "name": "Ill Fated One",
-    "description": "For as long as you can remember, it always felt like something was trying to reach out to you. And whatever kept it at bay, has vanished when the cataclysm hit.",
-    "points": -2,
-    "effect_type": ["teleglow"],
-    "items": {
-      "both": ["tshirt"],
-      "male": ["boxer_shorts"],
-      "female": ["panties"]
-    }
-  },
-  {
-    "type": "profession",
     "ident": "Ex_Con",
     "name": "Ex-Con",
     "description": "A soldier, mercenary, convict, and now a survivor. Endured eveything life threw at you, the Cataclysm doesn't change a thing.",
