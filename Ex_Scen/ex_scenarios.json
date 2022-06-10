@@ -119,7 +119,7 @@
     "ident": "mechanic_scen",
     "points": -2,
     "allowed_locs": [
-      "s_garage",
+      "sloc_garage",
       "public_works_NW",
       "public_works_NE",
       "public_works_SW",
