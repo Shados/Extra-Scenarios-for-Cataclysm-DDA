@@ -175,19 +175,6 @@
     "points": -2,
     "allowed_locs": ["fema"],
     "start_name": "Fema Camp",
-    "professions": ["patient_zero"],
-    "forced_traits": [
-      "HUNGER",
-      "PAINRESIST",
-      "FORGETFUL",
-      "INFIMMUNE",
-      "CLUMSY",
-      "ANIMALDISCORD",
-      "PRED2",
-      "SMELLY2",
-      "TERRIFYING",
-      "ROBUST",
-      "EATDEAD"
-    ]
+    "professions": ["patient_zero"]
   }
 ]
